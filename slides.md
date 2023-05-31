@@ -411,7 +411,7 @@ public class UpdateEmployeeController {
   * Konstruktorban létrehozott példány cseréje
   * Példány konstruktor paraméterében legyen átadva
 * Parametrize method
-  * Metódusban létrehozott példány cseréjeú
+  * Metódusban létrehozott példány cseréje
   * Példány metódus paraméterében legyen átadva
 * Primitivize Parameter
   * Metódus bonyolult paramétereken dolgozik
